@@ -2,17 +2,6 @@
 
 It's a photography website, which tells you about the person work and how you can contact to that person. 
 
-# Hi, I'm Kiran! 👋
-
-
-## 🚀 About Me
-I'm a full stack developer...
-
-
-## 🛠 Skills
-Javascript, HTML, CSS, React......
-
-
 ## Used By
 
 This website can be used by a person who give service of photography mainly family shoot.
