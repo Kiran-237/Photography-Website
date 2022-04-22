@@ -1,0 +1,54 @@
+body {
+}
+
+.motherhood-picture{
+    background-image: url("https://e3.365dm.com/19/03/2048x1152/skynews-first-time-mums-motherhood_4593714.jpg");
+    background-position: center;
+    height: 500px;
+   background-repeat: no-repeat;
+   position: relative;
+   background-size: auto;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: end;
+}
+h1{
+    font-family: cursive;
+    font-size: 30px;
+    color: rgb(34, 10, 108);
+    text-align: end;
+    
+}
+.our-work{
+    text-align: center;
+    background-color: cadetblue;
+    font-size: 30px;
+    margin: 0;
+    padding: 20px;
+}
+.pic-1{
+    background-image: url("https://static.parade.com/wp-content/uploads/2017/05/6091832360_c140db4ca7_b.jpg");
+    
+   
+}
+.pic-2{
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/458/237/292/women-mother-love-baby-wallpaper-preview.jpg");
+}
+.pic-3{
+    background-image: url("https://w0.peakpx.com/wallpaper/311/522/HD-wallpaper-mother-s-love-motherhood-baby-mother-love.jpg");
+   
+}
+.pic {
+    background-position: center;
+    height: 500px;
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: contain;
+}
+.left-section{
+    text-align: center;
+    font-style: italic;
+    font-size: medium;
+}

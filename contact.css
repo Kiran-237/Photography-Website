@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(50, 48, 46);
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+  color: white;
+}
+input[type="text"],
+select,
+textarea {
+  width: 30%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+body {
+  background-image: url("https://wallpaperaccess.com/full/1905101.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  width: auto;
+}
+#get-in-touch {
+  color: rgb(240, 46, 46);
+  text-align: left;
+  font-size: 60px;
+}
+.message {
+  font-style: italic;
+  font-family: cursive;
+}
