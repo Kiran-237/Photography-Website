@@ -28,27 +28,17 @@ h1{
     margin: 0;
     padding: 20px;
 }
-.pic-1{
-    background-image: url("https://static.parade.com/wp-content/uploads/2017/05/6091832360_c140db4ca7_b.jpg");
-    
-   
-}
-.pic-2{
-    background-image: url("https://c4.wallpaperflare.com/wallpaper/458/237/292/women-mother-love-baby-wallpaper-preview.jpg");
-}
-.pic-3{
-    background-image: url("https://w0.peakpx.com/wallpaper/311/522/HD-wallpaper-mother-s-love-motherhood-baby-mother-love.jpg");
-   
-}
-.pic {
-    background-position: center;
-    height: 500px;
-    background-repeat: no-repeat;
-    position: relative;
-    background-size: contain;
-}
-.left-section{
+
+
+.caption {
+    padding: 0.8rem;
     text-align: center;
-    font-style: italic;
-    font-size: medium;
-}
+  }
+  img {
+    display: block;
+    width: 100%;
+  }
+  body {
+    margin: 0;
+    height: auto;
+  }
