@@ -1,44 +1,138 @@
 body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  background: #eee;
+  height: auto;
+}
+main {
+  max-width: 900px;
+  margin: auto;
+  box-shadow: 30px 0px 40px rgba(0, 0, 0, 0.1),
+    -30px 0px 40px rgba(0, 0, 0, 0.1);
+}
+h1 {
+  font-weight: 400;
+  font-size: 2rem;
+ 
+  text-transform: uppercase;
+  margin: 0;
 }
 
-.motherhood-picture{
-    background-image: url("https://e3.365dm.com/19/03/2048x1152/skynews-first-time-mums-motherhood_4593714.jpg");
-    background-position: center;
-    height: 500px;
-   background-repeat: no-repeat;
-   position: relative;
-   background-size: auto;
+h2 {
+  font-weight: 400;
+  font-size: 1.2rem;
+  text-transform: capitalize;
+  margin: 0;
 }
-h3{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 20px;
-    text-align: end;
+#landing {
+  background: #fff;
 }
-h1{
-    font-family: cursive;
-    font-size: 30px;
-    color: rgb(34, 10, 108);
-    text-align: end;
-    
+
+#landing-text {
+  display: flex;
+  flex: 0 1 40vw;
+  /* height: 50vh; */
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-right: 1rem;
+  padding-left: 1rem;
+  background: whitesmoke;
 }
-.our-work{
-    text-align: center;
-    background-color: cadetblue;
-    font-size: 30px;
-    margin: 0;
-    padding: 20px;
+
+#landing-text h2 {
+  color: #888;
+}
+
+#landing-image {
+  background: url("https://www.samacharlive.com/wp-content/uploads/2020/06/motherhood-m2.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 50vh;
+  flex: 0 1 60vw;
+  margin: 0;
+}
+#header {
+  padding: 1.5rem;
+  text-align: center;
+  background: lightseagreen;
+  color: #fff;
+}
+
+#header h2 {
+  border-left: dotted 1px #fff;
+  border-right: dotted 1px #fff;
+  display: inline-block;
+  padding-right: 1rem;
+  padding-left: 1rem;
 }
 
 
+.btn {
+  padding: 0.5rem 1rem;
+  border: 1px rgb(39, 35, 35) solid;
+  display: inline-block;
+  margin-top: 1%;
+  margin-left: 77%;
+  border-radius: 50px;
+  text-decoration: none;
+  color: #333;
+  transition: background 500ms ease;
+}
+
+.btn:hover {
+  background: #f4f4f4;
+}
 .caption {
-    padding: 0.8rem;
-    text-align: center;
-  }
-  img {
-    display: block;
-    width: 100%;
-  }
-  body {
-    margin: 0;
-    height: auto;
-  }
+  padding: 0.8rem;
+  text-align: center;
+}
+img {
+  display: block;
+  width: 60%;
+  height:50%;
+  margin-left: 20%;
+}
+#view-work{
+  margin-left: 0%;
+  
+}
+/* #view-work:hover{
+  background: #f4f4f4;
+} */
+nav{
+  background: peachpuff;
+  
+}
+.btn1{
+  display: inline;
+  margin-left: 83%;
+  border-radius: 2%;
+  margin-top: 5px;
+  border: 1px rgb(39, 35, 35) solid;
+  text-decoration: none;
+  border-style: none;
+  padding: 4px;
+  
+  
+}
+.btn2{
+  display: inline;
+  margin-left:20px; 
+  margin-top: 5px;
+  border: 1px rgb(39, 35, 35) solid;
+  text-decoration: none;
+  border-style: none;
+  padding: 4px;
+ 
+}
+
+
+
+  
+
+  
+
+ 
+
